@@ -131,4 +131,5 @@ I am always open to new opportunities and collaborations. If you have an excitin
 ---
 
 ## 🎨 GitHub Profile Views
-![Profile views](https://gpvc.arturio.dev/priyanshrai)
+![Profile views](https://komarev.com/ghpvc/?username=priyanshrai&style=for-the-badge&color=blue)
+
