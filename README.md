@@ -1,7 +1,5 @@
 # Hi there, I'm Priyansh Rai! 👋
 
-![Profile Image](https://avatars.githubusercontent.com/u/81904693?v=4)
-
 Freelance Full Stack Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/priyansh-rai-196515168)
