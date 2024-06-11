@@ -6,10 +6,12 @@ Freelance Full Stack Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/priyansh-rai-196515168)
 [![Email](https://img.shields.io/badge/Email-rai.priyansh@yahoo.in-red)](mailto:rai.priyansh@yahoo.in)
+![GitHub followers](https://img.shields.io/github/followers/priyanshrai?style=social)
+![GitHub stars](https://img.shields.io/github/stars/priyanshrai?style=social)
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I am Priyansh Rai, a freelance full stack web developer with over 3 years of experience crafting code and delivering dreams. I am proficient in PHP, JavaScript, Node.js, and various frameworks, adept at executing all phases of the software development life cycle. I am a quick learner with a passion for problem-solving and exploring new domains.
 
@@ -17,20 +19,31 @@ I am Priyansh Rai, a freelance full stack web developer with over 3 years of exp
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** PHP, JavaScript, Node.js
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **CMS:** WordPress, BigCommerce, Shopify, Bitrix24 App Development, Strapi
-- **JavaScript Frameworks/Libraries:** jQuery, Angular, AngularJS, React, Next.js, Vue.js
-- **PHP Frameworks:** CodeIgniter, Laravel, CorePHP
-- **Node.js Frameworks:** Express, Nest.js
-- **Version Control:** Git
-- **Queue Management:** Redis Queue
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-5E4692?style=for-the-badge&logo=truffle&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshrai&show_icons=true&theme=dark)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=priyanshrai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshrai&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
@@ -51,21 +64,27 @@ Developed a custom app for Bitrix CRM and integrated it with Vicidial call cente
 
 ### [DApp_decentralized_voting](https://github.com/priyanshrai/DApp_decentralized_voting)
 A decentralized voting system where users can vote on proposals.
+- **Technologies Used:** JavaScript, Solidity, Truffle, Web3.js, MetaMask
 
 ### [DApp_NFT_Marketplace](https://github.com/priyanshrai/DApp_NFT_Marketplace)
 Mint new NFTs.
+- **Technologies Used:** JavaScript, Solidity, Truffle, Web3.js, MetaMask
 
 ### [DApps_hello_world_smart_contract](https://github.com/priyanshrai/DApps_hello_world_smart_contract)
 A simple smart contract that stores and retrieves a "Hello World" message.
+- **Technologies Used:** JavaScript, Solidity, Truffle, Web3.js, MetaMask
 
 ### [shopify](https://github.com/priyanshrai/shopify)
 A repository related to Shopify development, utilizing TypeScript.
+- **Technologies Used:** TypeScript
 
 ### [strapi](https://github.com/priyanshrai/strapi)
 Forked from strapi/strapi. Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+- **Technologies Used:** JavaScript, TypeScript
 
 ### [to-do-web3](https://github.com/priyanshrai/to-do-web3)
 A web3-based to-do application.
+- **Technologies Used:** JavaScript, Solidity, Truffle, Web3.js, MetaMask
 
 ---
 
@@ -106,3 +125,6 @@ A web3-based to-do application.
 I am always open to new opportunities and collaborations. If you have an exciting project or idea, feel free to reach out to me.
 
 ---
+
+## 🎨 GitHub Profile Views
+![Profile views](https://gpvc.arturio.dev/priyanshrai)
