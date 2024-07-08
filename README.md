@@ -3,7 +3,7 @@
 Freelance Full Stack Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/priyansh-rai-196515168)
-[![Email](https://img.shields.io/badge/Email-rai.priyansh@yahoo.in-red)](mailto:rai.priyansh007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rai.priyansh007@gmail.com-red)](mailto:rai.priyansh007@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/priyanshrai?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/priyanshrai?style=social)
 
